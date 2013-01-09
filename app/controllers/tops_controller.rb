@@ -1,4 +1,4 @@
-class TopsController < ApplicationController
+lass TopsController < ApplicationController
   # GET /tops
   # GET /tops.json
   def index
