@@ -29,7 +29,7 @@ header {
 	background-image: url(/images/holidayretailers.jpg);
 	background-repeat:no-repeat;
 	background-size: cover;
-	color: #292727;
+	color: #9E1124;
 	padding: 20px;
 }
 
@@ -52,7 +52,7 @@ nav li{
 	display: inline;
 }
 
-header a:link {color: #fff;}
+header a:link {color: #9E1124;}
 header a:visited {color: #ffe;}
 header a:hover {color:#ffe;}
 header a:active {color: #ffd;}
