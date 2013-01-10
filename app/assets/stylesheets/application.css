@@ -55,10 +55,10 @@ nav li{
 	display: inline;
 }
 
-header a:link {color: #9E1124;}
-header a:visited {color: #ffe;}
+header a:link {color: #850B1B;}
+header a:visited {color: #850B1B;}
 header a:hover {color:#ffe;}
-header a:active {color: #ffd;}
+header a:active {color: #850B1B}
 
 table{
 	width: 100%;
