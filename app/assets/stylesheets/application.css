@@ -20,16 +20,17 @@ body {
 	width: 80%;
 	margin: 0 auto;
 	background-color: #9E1124;
+	color:#ffe;
 	padding: 20px 40px;
 	border: 1px double #ddd;
-	font-family: Verdana, sans-serif;
+	font-family: 'Rock Salt', cursive;
 }
 
 header {
 	background-image: url(/images/holidayretailers.jpg);
 	background-repeat:no-repeat;
 	background-size: cover;
-	color: #9E1124;
+	color: #850B1B;
 	padding: 20px;
 }
 
@@ -59,6 +60,8 @@ header a:active {color: #ffd;}
 
 table{
 	width: 100%;
+	color: #ffe;
+	font-family: Verdana, sans-serif;
 }
 
 thead th{
