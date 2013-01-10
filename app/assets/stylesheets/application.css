@@ -31,12 +31,14 @@ header {
 	background-repeat:no-repeat;
 	background-size: cover;
 	color: #850B1B;
+	font-weight: bolder;
 	padding: 20px;
+	border: #ffe;
 }
 
 header h1 {
 	font-family: 'Rock Salt', cursive;
-	font-size: 36px;
+	font-size: 38px;
 	text-align: justify;
 
 }
@@ -70,5 +72,8 @@ thead th{
 	padding: 5px 0;
 }
                                                           
-
-
+a:link {color: #ffe;}
+a:visited{color: #ffe;}
+a:hover{color:#ffe;}
+a:focus{color:#ffe;}
+a:active{color: #ffd;}
