@@ -19,14 +19,16 @@ html {
 body {
 	width: 80%;
 	margin: 0 auto;
-	background-color: #fff;
+	background-color: #9E1124;
 	padding: 20px 40px;
 	border: 1px double #ddd;
 	font-family: Verdana, sans-serif;
 }
 
 header {
-	background-color: #9E1124;
+	background-image: url(/images/holidayretailers.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
 	color: #fff;
 	padding: 20px;
 }
